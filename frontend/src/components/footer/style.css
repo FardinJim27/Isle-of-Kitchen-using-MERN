@@ -1,0 +1,70 @@
+.footerLogo img {
+  width: 120px;
+  height: 100px;
+  margin: 0 10px 10px 0;
+}
+
+.footerLogo {
+  text-align: center;
+}
+
+.footer {
+  box-shadow: inherit 0 0 10px gray;
+  background-color: #f8f9fa;
+  box-sizing: border-box;
+  border-bottom: 2px solid #157347;
+  margin: 20px 5px 5px 5px;
+}
+
+.secone {
+  padding: 10px;
+}
+
+.sectwo {
+  padding: 10px;
+}
+
+.secHead {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.secItem {
+  margin-top: 10px;
+}
+
+.secItemLogo {
+  margin-top: 10px;
+}
+
+.secItem li {
+  list-style: none;
+  padding-top: 5px;
+}
+
+.secItem li a {
+  text-decoration: none;
+  color: black;
+}
+
+.secItem li a:hover {
+  color: #157347;
+}
+
+.secItemLogo img {
+  height: 50px;
+  width: 70px;
+  padding: 5px;
+  border: 1px solid #157347;
+  border-radius: 5px;
+}
+
+.footerCopyright {
+  text-align: center;
+  background-color: rgb(243, 243, 243);
+  padding: 10px;
+}
+
+.secItemLogo a {
+  color: #182a4d;
+}

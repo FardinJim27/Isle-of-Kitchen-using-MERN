@@ -1,0 +1,159 @@
+.totalOrder {
+  height: auto;
+  width: auto;
+  box-shadow: inherit 0 0 10px #f8f9fa;
+  box-sizing: border-box;
+  background-color: #d0f2fe;
+  text-align: center;
+  padding: 30px;
+  border-radius: 15px;
+  margin: 10px;
+}
+.totalImg {
+  padding: 10px 0 0 0;
+}
+
+.totalImg img {
+  height: 80px;
+  width: 80px;
+  border-radius: 50px;
+  background-color: #badef5;
+  padding: 10px;
+}
+
+.totalNum {
+  color: #04297a;
+  font-size: 25px;
+  font-weight: 700;
+  padding: 20px 0 5px 0;
+}
+
+.totalText {
+  color: #04297a;
+  font-weight: 500;
+}
+
+.totalItem {
+  height: auto;
+  width: auto;
+  box-shadow: inherit 0 0 10px #f8f9fa;
+  box-sizing: border-box;
+  background-color: #d1e9fc;
+  text-align: center;
+  padding: 30px;
+  border-radius: 15px;
+  margin: 10px;
+}
+.itemImg {
+  padding: 10px 0 0 0;
+}
+
+.itemImg img {
+  height: 80px;
+  width: 80px;
+  border-radius: 50px;
+  background-color: #b2cbeb;
+  padding: 10px;
+}
+
+.itemNum {
+  color: #051c64;
+  font-size: 25px;
+  font-weight: 700;
+  padding: 20px 0 5px 0;
+}
+
+.itemText {
+  color: #051c64;
+  font-weight: 500;
+}
+
+.totalDelivered {
+  height: auto;
+  width: auto;
+  box-shadow: inherit 0 0 10px #f8f9fa;
+  box-sizing: border-box;
+  background-color: #fff7cc;
+  text-align: center;
+  padding: 30px;
+  border-radius: 15px;
+  margin: 10px;
+}
+.deliveredImg {
+  padding: 10px 0 0 0;
+}
+
+.deliveredImg img {
+  height: 80px;
+  width: 80px;
+  border-radius: 50px;
+  background-color: #f2e0ac;
+  padding: 10px;
+}
+
+.deliveredNum {
+  color: #7a4f01;
+  font-size: 25px;
+  font-weight: 700;
+  padding: 20px 0 5px 0;
+}
+
+.deliveredText {
+  color: #7a4f01;
+  font-weight: 500;
+}
+
+.totalRevenue {
+  height: auto;
+  width: auto;
+  box-shadow: inherit 0 0 10px #f8f9fa;
+  box-sizing: border-box;
+  background-color: #ffe7d9;
+  text-align: center;
+  padding: 30px;
+  border-radius: 15px;
+  margin: 10px;
+}
+.paymentImg {
+  padding: 10px 0 0 0;
+}
+
+.paymentImg img {
+  height: 80px;
+  width: 80px;
+  border-radius: 50px;
+  background-color: #fadacd;
+  padding: 10px;
+}
+
+.paymentNum {
+  color: #7a0b2e;
+  font-size: 25px;
+  font-weight: 700;
+  padding: 20px 0 5px 0;
+}
+
+.paymentText {
+  color: #7a0b2e;
+  font-weight: 500;
+}
+
+.itemDiv {
+  background-color: white;
+  border-radius: 10px;
+  margin: 10px 0 10px 0;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  
+}
+
+.itemDiv img {
+  height: 100px;
+  width: 100px;
+  overflow: hidden;
+}
+
+.itemDesc {
+  margin: 0 0 0 20px;
+}
